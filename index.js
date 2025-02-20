@@ -14,6 +14,6 @@ console.log(num2);
 
 
 // keywords or variables //
-// let
-// var
-// const
+// let(block scope)
+// var(function scope)
+// const(block scope)
